@@ -1,4 +1,4 @@
-# ASRL Robotics Project
+# ASRL Robotics Project - 
    - Summer 2018
 -------------------------------------------------------------------------------------------------------------------------------------------
 ## Inspiration and Goal
@@ -14,7 +14,7 @@ This spacecraft simulation has applications in both education and defense.
    The simulations and tests of this robot can determine if an object in low Earth orbit (LEO) or geostationary earth orbit (GEO) is free floating, or is being controlled.
 
 #### Education
-   The tests and simulations
+   The tests and simulations preformed using this robotic vehicle can be used to visualize various amounts of manuevers that a spacecraft can preform. For example, by utilizing two of these vehicles you can model docking manuevers between two seperate spacecraft and view the reactions of contact in space in real time.
    
    
 ## Implementation
