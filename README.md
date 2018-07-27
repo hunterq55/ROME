@@ -7,7 +7,11 @@
    The goal of this project is to create a mobile ground vehicle that utilized a 6 degree of freedom robotic arm in order to accurately model the orbital mechanics of a spacecraft as it dances in space. The end effector of the robotic arm has a small model spacecraft/cubesat which by utilizing feedback from a radar system within our lab, we can visualize on the computer the maneuvers that the hardware just preformed.
 
 
-   ## Applications
-      This spacecraft simulation has applications in both education and defense.
+## Applications
+This spacecraft simulation has applications in both education and defense.
 
-      Defenese
+#### Defense
+   The simulations and tests of this robot can determine if an object in low Earth orbit (LEO) or geostationary earth orbit (GEO) is free floating, or is being controlled.
+
+#### Education
+   The tests and simulations
