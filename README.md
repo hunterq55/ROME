@@ -1,4 +1,4 @@
-# ASRL Robotics Project  -   Summer 2018 - Present
+# ASRL Robotics Project  :   Summer 2018 - Present
 -------------------------------------------------------------------------------------------------------------------------------------------
 ## Inspiration and Goal
    In order to properly model the natural world around us, we create accurate simulations and models. One area that our lab believes is important to understand is the modeling of space flight. Computer simulations can create fantastic models, however, there can be a large mental hurdle in seeing and understanding a three dimensional space recreated on a two dimensional screen. This lack of complete visualization inspired the creation of this vehicle. 
