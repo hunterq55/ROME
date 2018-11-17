@@ -1,4 +1,3 @@
-# ASRL Robotics Project  
 ROME - RAPID ORBITAL MOTION EMULATOR:   Summer 2018 - Present
 -------------------------------------------------------------------------------------------------------------------------------------------
 ## Inspiration and Goal
